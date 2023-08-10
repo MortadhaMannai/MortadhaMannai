@@ -7,9 +7,9 @@
 ![image](https://github.com/MortadhaMannai/MortadhaMannai/assets/93622509/1b905064-7ccb-4f5b-b4b4-c0599a6b2540)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davinci230221&label=Profile%20views&color=0e75b6&style=flat" alt="davinci230221" /> </p>
+<<p align="left"> <img src="https://komarev.com/ghpvc/?username=mortadhamannai&label=Profile%20views&color=0e75b6&style=flat" alt="mortadhamannai" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davinci230221" alt="davinci230221" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mortadhamannai" alt="mortadhamannai" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
