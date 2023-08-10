@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manai Mohamed Mortadha</h1>
 <h3 align="center">Data Science has always been my passion. I have always loved the challenge of finding the right kind of data, analyzing it and coming up with answers to big problems, and then presenting those insights out in ways that people understand. I'm also recognized by the ability to work with multicultural teams, through careful listening skills, and attention to details. I strive for continuous progress in everything I do, and so I'm keen to work in an environment that encourages me to succeed and grow professionally where I can use my skills and knowledge appropriately.</h3>
 
-![image](https://github.com/Davinci230221/Mortadha_Manai/assets/93622509/54297347-6ba6-4eb8-8a70-7868d8b8b606)
+![image](https://github.com/MortadhaMannai/MortadhaMannai/assets/93622509/1b905064-7ccb-4f5b-b4b4-c0599a6b2540)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davinci230221&label=Profile%20views&color=0e75b6&style=flat" alt="davinci230221" /> </p>
 
