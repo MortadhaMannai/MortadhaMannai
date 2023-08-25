@@ -15,7 +15,7 @@ My zeal for AI is not merely professional; it's a deeply ingrained curiosity tha
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Vocal-Track-Extraction-Deep-Learning**
+- 🔭 I’m currently working on **Comparative Analysis of Equity Crowdfunding Expenditure Across OECD Nations: Python and R Approach**
 
 - 🌱 I’m currently learning **XAI**
 
