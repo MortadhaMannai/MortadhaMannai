@@ -23,6 +23,8 @@ My zeal for AI is not merely professional; it's a deeply ingrained curiosity tha
 
 - 🤝 I’m looking for help with **Preparing for the Google Tensorflow certificate**
 
+- 🗞 My Last scientific Paper available at : https://zenodo.org/record/8274725 
+
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mannai-mortadha/](https://www.linkedin.com/in/mannai-mortadha/)
 
 - 💬 Ask me about **Natural Language Processing**
