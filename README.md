@@ -64,5 +64,11 @@ My zeal for AI is not merely professional; it's a deeply ingrained curiosity tha
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mortadhamannai&" alt="mortadhamannai" /></p>
 
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
 
 
