@@ -36,10 +36,9 @@
 - 📫 How to reach me **https://www.linkedin.com/in/mannai-mortadha/**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mannai-mortadha/details/featured/1635525218643/single-media-viewer/?profileId=ACoAAC59Ew8BF2q7kazydrec_xg5zeAEQcOZznw](https://www.linkedin.com/in/mannai-mortadha/details/featured/1635525218643/single-media-viewer/?profileId=ACoAAC59Ew8BF2q7kazydrec_xg5zeAEQcOZznw)
-
+  
 - ⚡ Fun fact **I'm so Passionate about Formula 1 🏎**
-
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mannai mortadha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mannai mortadha" height="30" width="40" /></a>
