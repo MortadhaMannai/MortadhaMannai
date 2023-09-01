@@ -19,7 +19,7 @@
 
 <br><br>
 
-- 🔭 I’m currently working on **Comparative Analysis of Equity Crowdfunding Expenditure Across OECD Nations: Python and R Approach**
+- 🔭 I’m currently working on **OpenCVPlayground: Exploring Diverse OpenCV Projects**
 
 - 🌱 I’m currently learning **XAI**
 
