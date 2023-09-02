@@ -33,6 +33,9 @@
 
 - 💬 Ask me about **Natural Language Processing**
 
+- ⚡ To inquire about speaking at an event or to contact me regarding speaking engagements, please feel free to reach out through the following channel : https://sessionize.com/Mortadha_Mannai
+  
+
 - 📫 How to reach me **https://www.linkedin.com/in/mannai-mortadha/**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mannai-mortadha/details/featured/1635525218643/single-media-viewer/?profileId=ACoAAC59Ew8BF2q7kazydrec_xg5zeAEQcOZznw](https://www.linkedin.com/in/mannai-mortadha/details/featured/1635525218643/single-media-viewer/?profileId=ACoAAC59Ew8BF2q7kazydrec_xg5zeAEQcOZznw)
