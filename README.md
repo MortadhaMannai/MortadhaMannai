@@ -19,7 +19,7 @@
 
 <br><br>
 
-- 🔭 I’m currently working on **OpenCVPlayground: Exploring Diverse OpenCV Projects**
+- 🔭 I’m currently working on **Disaster-Risk-Monitoring-Using-Satellite-Imagery-and-Nvidia-Libraries**
 
 - 🌱 I’m currently learning **XAI**
 
