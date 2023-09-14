@@ -19,7 +19,7 @@
 
 <br><br>
 
-- 🔭 I’m currently working on **Disaster-Risk-Monitoring-Using-Satellite-Imagery-and-Nvidia-Libraries**
+- 🔭 I’m currently working on **Natural-Language-Processing-Analyzing-GitHub-Pull-Requests**
 
 - 🌱 I’m currently learning **XAI**
 
