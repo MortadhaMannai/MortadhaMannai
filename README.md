@@ -19,7 +19,7 @@
 
 <br><br>
 
-- 🔭 I’m currently working on **BERT-Neural-Language-Interface-Explainability-Explorer**
+- 🔭 I’m currently working on **VehiSense-Anomaly-Detection-Beyond-Limits**
 
 - 🌱 I’m currently learning **XAI**
 
