@@ -10,7 +10,8 @@
 
 <h3 align="center">Driven by an unwavering fascination for AI's transformative power, I'm captivated by its intricate fusion of data and algorithms. From creating neural networks for natural language nuances to fostering innovation through continuous learning, I'm committed to AI's evolution. Recognized for multicultural teamwork and attention to detail, I aim for an environment that fuels professional growth and impactful human-machine collaboration.</h3>
 
-![image](https://github.com/MortadhaMannai/MortadhaMannai/assets/93622509/1b905064-7ccb-4f5b-b4b4-c0599a6b2540)
+![image](https://media.bizj.us/view/img/10755766/gettyimages-802851578*900xx5000-2813-0-290.jpg)
+
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
