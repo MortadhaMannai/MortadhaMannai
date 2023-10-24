@@ -48,6 +48,7 @@
 <a href="https://linkedin.com/in/mannai mortadha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mannai mortadha" height="30" width="40" /></a>
 <a href="https://fb.com/mortadha mannai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mortadha mannai" height="30" width="40" /></a>
 <a href="https://instagram.com/mortadha_mannai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mortadha_mannai" height="30" width="40" /></a>
+<a href="https://coderbyte.com/profile/MortadhaManai" target="blank"><img align="center" src="https://github.com/MortadhaMannai/MortadhaMannai/assets/93622509/f70e9b69-2652-4dee-9024-b58c30e47337" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mannaimortadha898" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mannaimortadha898" height="30" width="40" /></a>
 </p>
 
