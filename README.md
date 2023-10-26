@@ -20,7 +20,7 @@
 
 <br><br>
 
-- 🔭 I’m currently working on **VehiSense-Anomaly-Detection-Beyond-Limits**
+- 🔭 I’m currently working on **NeuralStockPredict-Predicting-stock-price-movements-using-NLP-and-DL**
 
 - 🌱 I’m currently learning **XAI**
 
