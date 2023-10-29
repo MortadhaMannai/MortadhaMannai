@@ -20,7 +20,7 @@
 
 <br><br>
 
-- 🔭 I’m currently working on **NeuralStockPredict-Predicting-stock-price-movements-using-NLP-and-DL**
+- 🔭 I’m currently working on **Multi-Modal-Handwriting-Analysis-with-Variational-Autoencoders-Siamese-Networks-and-MT-Learning**
 
 - 🌱 I’m currently learning **XAI**
 
