@@ -20,7 +20,7 @@
 
 <br><br>
 
-- 🔭 I’m currently working on **XAI-Explainability_of_FND_Models **
+- 🔭 I’m currently working on **XAI-Explainability_of_FND_Models**
 
 - 🌱 I’m currently learning **XAI**
 
