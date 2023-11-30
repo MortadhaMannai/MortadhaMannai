@@ -20,7 +20,7 @@
 
 <br><br>
 
-- 🔭 I’m currently working on **Multi-Modal-Handwriting-Analysis-with-Variational-Autoencoders-Siamese-Networks-and-MT-Learning**
+- 🔭 I’m currently working on **XAI-Explainability_of_FND_Models **
 
 - 🌱 I’m currently learning **XAI**
 
