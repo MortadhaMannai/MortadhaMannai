@@ -20,11 +20,11 @@
 
 <br><br>
 
-- 🔭 I’m currently working on **XAI-Explainability_of_FND_Models**
+- 🔭 I’m currently working on **XAI_ConstrainedAttentionVerifier**
 
-- 🌱 I’m currently learning **XAI**
+- 🌱 I’m currently learning and Researching **XAI**
 
-- 👯 I’m looking to collaborate on **Deep Reinforcement Learning projects**
+- 👯 I’m looking to collaborate on **EXplainable Artificial Intelligence projects**
 
 - 🤝 I’m looking for help with **Preparing for the Google Tensorflow certificate**
 
@@ -32,7 +32,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mannai-mortadha/](https://www.linkedin.com/in/mannai-mortadha/)
 
-- 💬 Ask me about **Natural Language Processing**
+- 💬 Ask me about **Natural Language Processing and Deep Reinforcement Learning **
 
 - ⚡ To inquire about speaking at an event or to contact me regarding speaking engagements, please feel free to reach out through the following channel : https://sessionize.com/Mortadha_Mannai
   
