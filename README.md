@@ -20,9 +20,9 @@
 
 <br><br>
 
-- 🔭 I’m currently working on **XAI_ConstrainedAttentionVerifier**
+- 🔭 I’m currently working on **XAIPalette-Exploring-Image-Structure-via-Color-Distillation-for-Explainable-AI**
 
-- 🌱 I’m currently learning and Researching **XAI**
+- 🌱 I’m currently learning and Researching **XAI (EXplainable Artificial Intelligence)**
 
 - 👯 I’m looking to collaborate on **EXplainable Artificial Intelligence projects**
 
