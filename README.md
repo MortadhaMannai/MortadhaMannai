@@ -22,9 +22,11 @@
 
 - 🔭 I’m currently working on **XAIPalette-Exploring-Image-Structure-via-Color-Distillation-for-Explainable-AI**
 
-- 🌱 I’m currently learning and Researching **XAI (EXplainable Artificial Intelligence)**
+- 🌱 I’m currently Researching **XAI (EXplainable Artificial Intelligence)**
+  
+- 🔻 I’m currently learning **AutoML (Automated Machine Learning)**
 
-- 👯 I’m looking to collaborate on **EXplainable Artificial Intelligence projects**
+- 👯 I’m looking to collaborate on **EXplainable Artificial Intelligence projects and Research Papers**
 
 - 🤝 I’m looking for help with **Preparing for the Google Tensorflow certificate**
 
@@ -32,7 +34,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mannai-mortadha/](https://www.linkedin.com/in/mannai-mortadha/)
 
-- 💬 Ask me about **Natural Language Processing and Deep Reinforcement Learning **
+- 💬 Ask me about ** XAI ,Natural Language Processing and Deep Reinforcement Learning **
 
 - ⚡ To inquire about speaking at an event or to contact me regarding speaking engagements, please feel free to reach out through the following channel : https://sessionize.com/Mortadha_Mannai
   
