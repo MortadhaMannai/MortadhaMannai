@@ -30,7 +30,9 @@
 
 - 🤝 I’m looking for help with **Preparing for the Google Tensorflow certificate**
 
-- 🗞 My Last scientific Paper available at : https://zenodo.org/record/8274725 
+- 🗞 My Last scientific Paper available at : https://zenodo.org/record/8274725
+
+- 📄 I write Articles about on MEDUIM : https://medium.com/@manaimortadha
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mannai-mortadha/](https://www.linkedin.com/in/mannai-mortadha/)
 
