@@ -32,11 +32,11 @@
 
 - 🗞 My Last scientific Paper available at : https://zenodo.org/record/8274725
 
-- 📄 I write Articles about on MEDUIM : https://medium.com/@manaimortadha
+- 📄 I write Articles on MEDUIM : https://medium.com/@manaimortadha
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mannai-mortadha/](https://www.linkedin.com/in/mannai-mortadha/)
 
-- 💬 Ask me about ** XAI ,Natural Language Processing and Deep Reinforcement Learning **
+- 💬 Ask me about **XAI ,Natural Language Processing and Deep Reinforcement Learning**
 
 - ⚡ To inquire about speaking at an event or to contact me regarding speaking engagements, please feel free to reach out through the following channel : https://sessionize.com/Mortadha_Mannai
   
