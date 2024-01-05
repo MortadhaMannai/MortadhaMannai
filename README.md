@@ -20,7 +20,7 @@
 
 <br><br>
 
-- 🔭 I’m currently working on **XAIPalette-Exploring-Image-Structure-via-Color-Distillation-for-Explainable-AI**
+- 🔭 I’m currently working on **FriendLinker-Uncovering-Indirect-Friendship-Relations-in-Ego-Networks**
 
 - 🌱 I’m currently Researching **XAI (EXplainable Artificial Intelligence)**
   
