@@ -20,7 +20,7 @@
 
 <br><br>
 
-- 🔭 I’m currently working on **FriendLinker-Uncovering-Indirect-Friendship-Relations-in-Ego-Networks**
+- 🔭 I’m currently working on **Social-Sales-Forecast-Improving-Social-Network-ads**
 
 - 🌱 I’m currently Researching **XAI (EXplainable Artificial Intelligence)**
   
