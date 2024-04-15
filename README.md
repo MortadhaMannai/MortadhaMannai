@@ -20,7 +20,7 @@
 
 <br><br>
 
-- 🔭 I’m currently working on **Social-Sales-Forecast-Improving-Social-Network-ads**
+- 🔭 I’m currently working on **Google-Foobar-Challenge-Experience-2024**
 
 - 🌱 I’m currently Researching **XAI (EXplainable Artificial Intelligence)**
   
