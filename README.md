@@ -30,7 +30,9 @@ AI Engineer |AI Expert |XAI Engineer @Netflix |XAI Researcher @Saint Mary's univ
 
 - 🤝 I’m looking for help with **Preparing for the Google Tensorflow certificate**
   
-- 💻 I Solve Problems On Leetcode : https://leetcode.com/u/mannaimortadha898/
+- 💻 I Solve Problems On Leetcode : https://leetcode.com/u/mannaimortadha898/`
+  
+- 📈 Schedule a 1:1 Meeting : https://topmate.io/manai_mortadha
 
 - 🗞 My Last scientific Paper available at : https://zenodo.org/record/8274725
 
