@@ -1,5 +1,5 @@
 <p align="center" >    
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World+!&center=true&size=30">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World+!&center=true&size=30"> 
   </p> 
 <h1 align="center">👋 I'm Manai Mohamed Mortadha 👋 </h1>  
 AI Engineer |AI Expert |XAI Engineer @Netflix |XAI Researcher @Saint Mary's university |AI Consultant @Tegus and @wivenn |CEO @Man.Ai |Professional Technical Reviewer @Packt |2024 AI Apprentice @Google |AI Speaker (Linkedin Top Voice)
