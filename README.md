@@ -28,7 +28,7 @@ AI Engineer |AI Expert |XAI Engineer @Netflix |XAI Researcher @Saint Mary's univ
 
 - 👯 I’m looking to collaborate on **EXplainable Artificial Intelligence projects and Research Papers**
 
-- 🤝 I’m looking for help with **Preparing for the Google professional Machine Learning Engineer certification **
+- 🤝 I’m looking for help with **Preparing for the Google professional Machine Learning Engineer certification**
   
 - 💻 I Solve Problems On Leetcode : https://leetcode.com/u/mannaimortadha898/`
   
