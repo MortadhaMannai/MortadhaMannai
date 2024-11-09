@@ -8,9 +8,9 @@ AI Engineer |AI Expert |XAI Engineer @Netflix |XAI Researcher @Saint Mary's univ
 ![](https://img.shields.io/github/followers/MortadhaMannai?color=green&logo=github)
 ![](https://komarev.com/ghpvc/?username=MortadhaMannai)
 
-<h3 align="center">Driven by an unwavering fascination for AI's transformative power, I'm captivated by its intricate fusion of data and algorithms. From creating neural networks for natural language nuances to fostering innovation through continuous learning, I'm committed to AI's evolution. Recognized for multicultural teamwork and attention to detail, I aim for an environment that fuels professional growth and impactful human-machine collaboration.</h3>
+<h3 align="center">Driven by an unwavering fascination for the transformative potential of Explainable AI (XAI), I'm captivated by the challenge of bridging the gap between complex algorithms and human understanding. My work focuses on developing interpretable models that illuminate the "why" behind AI decisions, fostering trust and transparency in automated systems. Recognized for my ability to collaborate across diverse teams and my keen attention to detail, I am committed to pushing the boundaries of XAI in an environment that nurtures both professional growth and meaningful human-AI interactions.</h3>
 
-![image](https://media.bizj.us/view/img/10755766/gettyimages-802851578*900xx5000-2813-0-290.jpg)
+![image](https://arxiv.org/html/2410.02331v1/x1.png)
 
 
 
