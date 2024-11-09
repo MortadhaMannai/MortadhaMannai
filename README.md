@@ -20,7 +20,7 @@ AI Engineer |AI Expert |XAI Engineer @Netflix |XAI Researcher @Saint Mary's univ
 
 <br><br>
 
-- 🔭 I’m currently working on **Google-Foobar-Challenge-Experience-2024**
+- 🔭 I’m currently working on **XploraHR – Combining "explore" with HR, emphasizing transparency and insights in decision-making.**
  
 - 🌱 I’m currently Researching **XAI (EXplainable Artificial Intelligence)**
   
@@ -28,7 +28,7 @@ AI Engineer |AI Expert |XAI Engineer @Netflix |XAI Researcher @Saint Mary's univ
 
 - 👯 I’m looking to collaborate on **EXplainable Artificial Intelligence projects and Research Papers**
 
-- 🤝 I’m looking for help with **Preparing for the Google Tensorflow certificate**
+- 🤝 I’m looking for help with **Preparing for the Google professional Machine Learning Engineer certification **
   
 - 💻 I Solve Problems On Leetcode : https://leetcode.com/u/mannaimortadha898/`
   
