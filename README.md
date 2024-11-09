@@ -10,7 +10,7 @@ AI Engineer |AI Expert |XAI Engineer @Netflix |XAI Researcher @Saint Mary's univ
 
 <h3 align="center">Driven by an unwavering fascination for the transformative potential of Explainable AI (XAI), I'm captivated by the challenge of bridging the gap between complex algorithms and human understanding. My work focuses on developing interpretable models that illuminate the "why" behind AI decisions, fostering trust and transparency in automated systems. Recognized for my ability to collaborate across diverse teams and my keen attention to detail, I am committed to pushing the boundaries of XAI in an environment that nurtures both professional growth and meaningful human-AI interactions.</h3>
 
-![image](https://arxiv.org/html/2410.02331v1/x1.png)
+![image](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11042-023-17666-y/MediaObjects/11042_2023_17666_Fig16_HTML.png)
 
 
 
