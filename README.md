@@ -40,7 +40,7 @@ AI Engineer |AI Expert |XAI Engineer @Netflix |XAI Researcher @Saint Mary's univ
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mannai-mortadha/](https://www.linkedin.com/in/mannai-mortadha/)
 
-- 💬 Ask me about **XAI ,Natural Language Processing and Deep Reinforcement Learning**
+- 💬 Ask me about **XAI ,Generative AI , LLmOps , Natural Language Processing and Deep Reinforcement Learning**
 
 - ⚡ To inquire about speaking at an event or to contact me regarding speaking engagements, please feel free to reach out through the following channel : https://sessionize.com/Mortadha_Mannai
   
