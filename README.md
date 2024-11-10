@@ -21,7 +21,7 @@ AI Engineer |AI Expert |XAI Engineer @Netflix |XAI Researcher @Saint Mary's univ
 
 <br><br>
 
-- 🔭 I’m currently working on **XploraHR – Combining "explore" with HR, emphasizing transparency and insights in decision-making.**
+- 🔭 I’m currently working on **XploraHR – Combining XAI with HR neural graph System , emphasizing transparency and insights in HR decision-making.**
  
 - 🌱 I’m currently Researching **XAI (EXplainable Artificial Intelligence)**
   
