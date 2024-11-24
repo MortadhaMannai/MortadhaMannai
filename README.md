@@ -27,7 +27,7 @@ AI Engineer |AI Expert |XAI Engineer @Netflix |XAI Researcher @Saint Mary's univ
   
 - 🔻 I’m currently learning **AutoML (Automated Machine Learning) and Machine Unlearning techniques**
 
-- 👯 I’m looking to collaborate on **EXplainable Artificial Intelligence projects and Research Papers**
+- 👯 I’m looking to collaborate on **EXplainable Artificial Intelligence Real world projects and Research Papers**
 
 - 🤝 I’m looking for help with **Preparing for the Google professional Machine Learning Engineer certification**
   
@@ -35,13 +35,13 @@ AI Engineer |AI Expert |XAI Engineer @Netflix |XAI Researcher @Saint Mary's univ
   
 - 📈 Schedule a 1:1 Meeting : https://topmate.io/manai_mortadha
 
-- 🗞 My Last scientific Paper available at : https://zenodo.org/record/8274725
+- 🗞 My Last scientific Paper available at : [https://zenodo.org/record/8274725](https://zenodo.org/me/uploads?q=&l=list&p=1&s=10&sort=newest)
 
 - 📄 I write Articles on MEDUIM : https://medium.com/@manaimortadha
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mannai-mortadha/](https://www.linkedin.com/in/mannai-mortadha/)
 
-- 💬 Ask me about **XAI ,Generative AI , LLmOps , Natural Language Processing and Deep Reinforcement Learning**
+- 💬 Ask me about **XAI ,Generative AI , LLmOps , RAG , llms, Natural Language Processing and Deep Reinforcement Learning**
 
 - ⚡ To inquire about speaking at an event or to contact me regarding speaking engagements, please feel free to reach out through the following channel : https://sessionize.com/Mortadha_Mannai
   
