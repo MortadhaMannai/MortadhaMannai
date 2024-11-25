@@ -36,6 +36,7 @@ AI Engineer |AI Expert |XAI Engineer @Netflix |XAI Researcher @Saint Mary's univ
 - 📈 Schedule a 1:1 Meeting : https://topmate.io/manai_mortadha
 
 - 🗞 My Last scientific Paper available at : [https://zenodo.org/record/8274725](https://zenodo.org/me/uploads?q=&l=list&p=1&s=10&sort=newest)
+   					     https://www.biorxiv.org/content/10.1101/2024.11.24.625043v1#page
 
 - 📄 I write Articles on MEDUIM : https://medium.com/@manaimortadha
 
