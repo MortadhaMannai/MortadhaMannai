@@ -21,7 +21,7 @@ AI Engineer |AI Expert |XAI Engineer @Netflix |XAI Researcher @Saint Mary's univ
 
 <br><br>
 
-- 🔭 I’m currently working on **PolePosition-GPT-F1-AI-RAG-GPT**
+- 🔭 I’m currently working on **PolePosition-GPT-F1-AI-RAG-GPT ( PROJECT 1 FROM series’s F1-AI)**
  
 - 🌱 I’m currently Researching **XAI (EXplainable Artificial Intelligence) in Finance and Accounting**
   
