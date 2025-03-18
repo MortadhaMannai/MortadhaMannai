@@ -27,7 +27,7 @@ AI Engineer |AI Expert |XAI Engineer @Netflix |XAI Researcher @Saint Mary's univ
   
 - 🔻 I’m currently learning **AutoML (Automated Machine Learning) and Machine Unlearning techniques**
 
-- 👯 I’m looking to collaborate on **EXplainable Artificial Intelligence Real world projects and Research Papers**
+- 👯 I’m looking to collaborate on **EXplainable Artificial Intelligence Research Papers**
 
 - 🤝 I’m looking for help with **Preparing for the Google professional Machine Learning Engineer certification**
   
