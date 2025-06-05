@@ -13,7 +13,7 @@ AI Engineer |AI Expert |AI Engineer @Netflix |xAI Researcher @Saint Mary's unive
 ![image](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11042-023-17666-y/MediaObjects/11042_2023_17666_Fig16_HTML.png)
 
 
-
+    
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
