@@ -5,7 +5,7 @@
 AI Engineer |AI Expert |AI Engineer @Netflix |xAI Researcher @Saint Mary's university |AI Consultant @Tegus and @wivenn|Professional AI Technical Reviewer @Packt |Ex-AI Apprentice @Google |International AI Speaker (Linkedin Top Voice )                                                     
 <div align="center">                                                           
                  
-![](https://img.shields.io/github/followers/MortadhaMannai?color=green&logo=github)           
+![](https://img.shields.io/github/followers/MortadhaMannai?color=green&logo=github)              
 ![](https://komarev.com/ghpvc/?username=MortadhaMannai)  
 
 <h3 align="center">Driven by an unwavering fascination for the transformative potential of Explainable AI (XAI), I'm captivated by the challenge of bridging the gap between complex algorithms and human understanding. My work focuses on developing interpretable models that illuminate the "why" behind AI decisions, fostering trust and transparency in automated systems. Recognized for my ability to collaborate across diverse teams and my keen attention to detail, I am committed to pushing the boundaries of XAI in an environment that nurtures both professional growth and meaningful human-AI interactions.</h3> 
