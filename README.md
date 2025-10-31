@@ -7,7 +7,7 @@ Senior AI Engineer |AI Expert |AI Engineer @Netflix |PHD candidate in Explainaib
                     
 ![](https://img.shields.io/github/followers/MortadhaMannai?color=green&logo=github)                    
 ![](https://komarev.com/ghpvc/?username=MortadhaMannai)  
-
+    
 <h3 align="center">Driven by an unwavering fascination for the transformative potential of Explainable AI (XAI), I'm captivated by the challenge of bridging the gap between complex algorithms and human understanding. My work focuses on developing interpretable models that illuminate the "why" behind AI decisions, fostering trust and transparency in automated systems. Recognized for my ability to collaborate across diverse teams and my keen attention to detail, I am committed to pushing the boundaries of XAI in an environment that nurtures both professional growth and meaningful human-AI interactions.</h3> 
 
 ![image](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11042-023-17666-y/MediaObjects/11042_2023_17666_Fig16_HTML.png)
