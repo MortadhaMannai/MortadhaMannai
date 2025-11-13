@@ -3,7 +3,7 @@
   </p>                                                                                                                                                                 
 <h1 align="center"> I'm MANAI Mohamed Mortadha 👋🏽 </h1>                                                                                                                                                                                                                                                                                   
 Senior AI Engineer @Netflix |AI Expert  |PHD candidate in Explainaible AI (xAI)  @Saint Mary's university X @INSAT |xAI  Researcher | AI Expert Consultant @Tegus|Professional AI Technical Reviewer @Packt |Ex-AI Apprentice @Google |International AI Speaker (Linkedin Top Voice )                                                         
-<div align="center">                                                                      
+<div align="center">                                                                          
                         
 ![](https://img.shields.io/github/followers/MortadhaMannai?color=green&logo=github)                    
 ![](https://komarev.com/ghpvc/?username=MortadhaMannai)  
