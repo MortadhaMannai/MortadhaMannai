@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World+!&center=true&size=30">                                                              
 	                        
   </p>                                                                                                                                                                                                                             
-<h1 align="center"> I'm MANAI Mohamed Mortadha 👋🏽 </h1>                                                                                                                                                                                                                                                                                                             
+<h1 align="center"> I'm MANAI Mohamed Mortadha 👋🏽 </h1>                                                                                                                                                                                                                                                                                                                
 Senior AI Engineer |AI Expert  |PHD candidate in Explainaible AI (xAI)  @Saint Mary's university X @INSAT |xAI  Researcher | AI Expert Consultant @Tegus|Professional AI Author & Technical Reviewer @Packt |International AI Speaker (Linkedin Top Voice )                                                         
 <div align="center">                                                                   
                            
