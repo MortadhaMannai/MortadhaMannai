@@ -5,7 +5,7 @@
 
   
 <h1 align="center"> I'm MANAI Mohamed Mortadha 👋🏽 </h1>                                                                                                                                                                                                                                                                                                                                              
-Senior AI Engineer  | Google Developer Expert in Cloud AI |PHD candidate in Explainaible AI (xAI)  @Saint Mary's university | AI Expert Consultant @Tegus| Professional AI Author & Technical Reviewer @Packt | International AI Speaker (Linkedin Top Voice )                                                         
+Generative AI Engineer  | Google Developer Expert in Cloud AI |PHD candidate in Explainaible AI (xAI)  | AI Expert Consultant | Professional AI Author & Technical Reviewer , Packt UK  | International AI Speaker (Linkedin Top Voice )                                                         
 <div align="center">                                                                   
                            
 ![](https://img.shields.io/github/followers/MortadhaMannai?color=green&logo=github)                    
