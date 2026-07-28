@@ -1,7 +1,8 @@
 <p align="center" >    
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World+!&center=true&size=30">                                                                                            
 	                                                                                                                                           
-  </p>                                                                                      
+  </p>                                                                      
+  
 
   
 <h1 align="center"> I'm MANAI Mohamed Mortadha 👋🏽 </h1>                                                                                                                                                                                                                                                                                                                                              
