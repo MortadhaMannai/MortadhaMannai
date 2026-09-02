@@ -1,0 +1,71 @@
+name: F1 Pit Stop Challenge
+
+# Fires whenever someone opens an issue on this profile repo titled
+# "pitstop: push" or "pitstop: pit <tyre>". Updates the race state,
+# regenerates assets/f1-pitstop.svg, commits it, comments the result,
+# and closes the issue — same mechanic timburgan uses for his chess game.
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+# Only one move plays out at a time — if two people click a link in the
+# same second, the second run waits instead of racing the first's push.
+concurrency:
+  group: f1-pitstop-challenge
+  cancel-in-progress: false
+
+jobs:
+  play-turn:
+    if: startsWith(github.event.issue.title, 'pitstop:')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Apply the move
+        id: move
+        run: |
+          python scripts/update_pitstop.py \
+            "${{ github.event.issue.title }}" \
+            "${{ github.event.issue.user.login }}"
+
+      - name: Commit updated state + SVG
+        run: |
+          git config user.name "f1-pitstop-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/pitstop_state.json assets/f1-pitstop.svg
+          git commit -m "Pit stop update from @${{ github.event.issue.user.login }}" || echo "nothing to commit"
+          git pull --rebase origin ${{ github.ref_name }}
+          git push
+
+      - name: Comment on the issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `${{ steps.move.outputs.summary }}`
+            });
+
+      - name: Close the issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: "closed"
+            });
