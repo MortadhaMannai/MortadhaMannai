@@ -12,7 +12,6 @@
 <img src="https://raw.githubusercontent.com/MortadhaMannai/MortadhaMannai/main/assets/f1-racetrack.svg" alt="F1 racetrack animation" width="880"/>
 </div>
 
-> Upload `assets/f1-racetrack.svg` (included alongside this README) to the root of this repo — GitHub renders its animation live, no build step required.
 
 ---
 
