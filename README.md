@@ -5,6 +5,9 @@
 </a>
    
 </div>
+![Followers](https://img.shields.io/github/followers/MortadhaMannai?label=Followers&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=MortadhaMannai&color=blue)
+
 
 ## 🏎️ Live Telemetry — Explainable AI Grand Prix
 
