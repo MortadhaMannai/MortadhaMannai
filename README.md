@@ -36,12 +36,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MortadhaMannai&show_icons=true&theme=react&border_color=e10600&hide_border=true&title_color=e10600"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MortadhaMannai&layout=compact&theme=react&border_color=e10600&hide_border=true&title_color=e10600"/>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MortadhaMannai&theme=react&border=e10600&hide_border=true&ring=e10600&fire=e10600"/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MortadhaMannai&theme=onedark&row=2&column=3&title=Titles,Wins,Experience,Followers,Stars,Commits"/></a>
 
 </div>
 
