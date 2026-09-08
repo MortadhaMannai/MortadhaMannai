@@ -5,7 +5,7 @@
 
 
  
-<div align="center">
+<div align="center"> 
   
 <a href="https://github.com/MortadhaMannai"> 
   <img src="https://raw.githubusercontent.com/MortadhaMannai/MortadhaMannai/main/assets/neofetch-card.svg" alt="Mohamed Mortadha Manai's GitHub Profile README" /> 
